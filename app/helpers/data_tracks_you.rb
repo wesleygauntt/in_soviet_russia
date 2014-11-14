@@ -50,7 +50,10 @@ def joke_array
     "Dust bites YOU!",
     "Rocket launches YOU!",
     "Tree chops YOU!",
-    "Sun sets YOU!"
+    "Sun sets YOU!",
+    "Snowman builds YOU!",
+    "Database hacks YOU!",
+    "Rope jumps YOU!"
   ]
 end
 
