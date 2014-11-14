@@ -1,3 +1,3 @@
 get '/' do
-  p 'Hello, world!'
+  erb :in_soviet_russia
 end
